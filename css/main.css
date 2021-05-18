@@ -73,7 +73,11 @@ footer {
 
   #column-3 {
     background-color: Pink;
+    width: 100%;
   }
+
+  .col-3 {
+    width: 50%;
 
   footer {
     background-color: WhiteSmoke;
@@ -98,7 +102,11 @@ footer {
 
   #column-3 {
     background-color: Yellow;
+    width: 33.3%
   }
+
+  .col-3 {
+    width: 33.3%;
 
   footer {
     background-color: ;
